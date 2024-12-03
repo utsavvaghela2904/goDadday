@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/goDadday/static/css/main.98def99d.css",
+    "main.js": "/goDadday/static/js/main.b14daae8.js",
+    "static/js/453.17a16993.chunk.js": "/goDadday/static/js/453.17a16993.chunk.js",
+    "static/media/mrq-Guide-IN-PK-Suraiya-tablet.webp": "/goDadday/static/media/mrq-Guide-IN-PK-Suraiya-tablet.7421ed3f03180bbcfdb9.webp",
+    "static/media/Raheim-Thompson-D.webp": "/goDadday/static/media/Raheim-Thompson-D.314bca506a9aae6bb0e3.webp",
+    "static/media/Header-img(1).webp": "/goDadday/static/media/Header-img(1).7d92726fca0af72e1b49.webp",
+    "static/media/mrq-Guide-IN-PK-Suraiya-desktop.webp": "/goDadday/static/media/mrq-Guide-IN-PK-Suraiya-desktop.bc942fa2267892b6ca3a.webp",
+    "static/media/Header-img(2).webp": "/goDadday/static/media/Header-img(2).8e88cbb5908261c4b2b0.webp",
+    "static/media/Raheim-Thompson-M.webp": "/goDadday/static/media/Raheim-Thompson-M.ab8df283b299ac4dd0e3.webp",
+    "static/media/mrq-Guide-IN-PK-Suraiya-mobile.webp": "/goDadday/static/media/mrq-Guide-IN-PK-Suraiya-mobile.72eb18159e2b3ced0c55.webp",
+    "static/media/logo.png": "/goDadday/static/media/logo.7726874ee127693c0458.png",
+    "static/media/Premium.webp": "/goDadday/static/media/Premium.b80fed2b00bcfc12d780.webp",
+    "static/media/gd-guides-logo.svg": "/goDadday/static/media/gd-guides-logo.97e33a4184546e569bb285df9afbc6b3.svg",
+    "static/media/Raheim-Thompson-site.webp": "/goDadday/static/media/Raheim-Thompson-site.04156a76555205501242.webp",
+    "static/media/Premium(720).webp": "/goDadday/static/media/Premium(720).21bae59194f08e58037b.webp",
+    "static/media/Premium2.webp": "/goDadday/static/media/Premium2.2672c2ab50d58e9e4ce3.webp",
+    "static/media/Premium1.webp": "/goDadday/static/media/Premium1.4f8cbdc447382b732288.webp",
+    "static/media/img-hp-airo-logo.svg": "/goDadday/static/media/img-hp-airo-logo.0e3518b8d94797935ba6e77f8fc8934d.svg",
+    "index.html": "/goDadday/index.html",
+    "main.98def99d.css.map": "/goDadday/static/css/main.98def99d.css.map",
+    "main.b14daae8.js.map": "/goDadday/static/js/main.b14daae8.js.map",
+    "453.17a16993.chunk.js.map": "/goDadday/static/js/453.17a16993.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98def99d.css",
+    "static/js/main.b14daae8.js"
+  ]
+}
