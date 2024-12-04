@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/goDadday/static/css/main.98def99d.css",
-    "main.js": "/goDadday/static/js/main.b14daae8.js",
+    "main.css": "/goDadday/static/css/main.67b645a7.css",
+    "main.js": "/goDadday/static/js/main.24a53b5c.js",
     "static/js/453.17a16993.chunk.js": "/goDadday/static/js/453.17a16993.chunk.js",
     "static/media/mrq-Guide-IN-PK-Suraiya-tablet.webp": "/goDadday/static/media/mrq-Guide-IN-PK-Suraiya-tablet.7421ed3f03180bbcfdb9.webp",
     "static/media/Raheim-Thompson-D.webp": "/goDadday/static/media/Raheim-Thompson-D.314bca506a9aae6bb0e3.webp",
@@ -19,12 +19,12 @@
     "static/media/Premium1.webp": "/goDadday/static/media/Premium1.4f8cbdc447382b732288.webp",
     "static/media/img-hp-airo-logo.svg": "/goDadday/static/media/img-hp-airo-logo.0e3518b8d94797935ba6e77f8fc8934d.svg",
     "index.html": "/goDadday/index.html",
-    "main.98def99d.css.map": "/goDadday/static/css/main.98def99d.css.map",
-    "main.b14daae8.js.map": "/goDadday/static/js/main.b14daae8.js.map",
+    "main.67b645a7.css.map": "/goDadday/static/css/main.67b645a7.css.map",
+    "main.24a53b5c.js.map": "/goDadday/static/js/main.24a53b5c.js.map",
     "453.17a16993.chunk.js.map": "/goDadday/static/js/453.17a16993.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98def99d.css",
-    "static/js/main.b14daae8.js"
+    "static/css/main.67b645a7.css",
+    "static/js/main.24a53b5c.js"
   ]
 }
