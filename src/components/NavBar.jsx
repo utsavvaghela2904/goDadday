@@ -261,20 +261,20 @@ function NavBar() {
         </nav>
 
         <div className="search-container">
-      <input
-        type="text"
-        className="search-input"
-        placeholder="Type the domain you want"
-      />
-      <button className="search-button">Search Domains</button>
-      <div className="domain-info">
-        <span className="price">₹ 129.00*</span>
-        <span className="details">/1st yr.</span>
-        <span className="offer">Your .xyz domain name is waiting.</span>
-      </div>
-    </div>
+          <input
+            type="text"
+            className="search-input"
+            placeholder="Type the domain you want"
+          />
+          <button className="search-button">Search Domains</button>
+          <div className="domain-info">
+            <span className="price">₹ 129.00*</span>
+            <span className="details">/1st yr.</span>
+            <span className="offer">Your .xyz domain name is waiting.</span>
+          </div>
+        </div>
 
-        <section className="tw-relative ">
+        <section className="tw-relative margin2 ">
           <div className="tw-container tw-px-3 tw-flex sm:tw-flex-nowrap tw-flex-wrap tw-h-auto HeaderImg">
             <div className="lg:tw-w-2/3 max-md:tw-w-8/12 sm:tw-w-2/3 tw-rounded-3xl tw-overflow-hidden sm:tw-mr-10 tw-flex tw-items-end tw-justify-start tw-relative HeaderImg-div1">
               <img src={headerImg} id="img" />
