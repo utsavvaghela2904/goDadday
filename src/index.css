@@ -13,7 +13,7 @@
   margin-left: 2.2rem;
 }
 .new{
-  margin-left: 5.5rem;
+  margin-left: 4rem;
 }
 
 .search-container {
@@ -155,6 +155,7 @@ body {
   font-size: 21px;
 }
 #MoveImg {
+  background-image: url('https://img1.wsimg.com/cdnassets/transform/475af367-8a35-4d15-a838-37d8114ea080/intl-img-bl-prod-feature-get-online-fast-desktop');
   background-position: center !important;
   background-size: cover !important;
 }

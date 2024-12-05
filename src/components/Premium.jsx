@@ -10,6 +10,7 @@ function Premium() {
     <>
       <section className="tw-container tw-mt-10 ">
         <div className="tw-text-center">
+          <br />
           <h1 className="tw-text-5xl">What's first up for your business?</h1>
           <button className="tw-bg-black tw-text-white tw-rounded-full tw-py-3 tw-px-5 hover:tw-scale-105 tw-transition-all tw-mt-4 tw-mx-2">
             Domains
